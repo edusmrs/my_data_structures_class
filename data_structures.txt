@@ -1,0 +1,25 @@
+Lista
+  -Java
+  
+    Operações:
+      - Percorrer
+        
+          - Indice
+        
+            for(int i = 0; i < lista.size(); i++){
+              System.out.println(lista.get(i));
+            }
+
+          - Objeto
+            
+            for(integer i : lists){
+              System.out.printn(i);
+            }
+
+          - Iteração
+            
+          Iterator<Integer> i = lista.iterator();
+            while(i.hasNext()){
+              System.out.println(i.next());
+            }
+          
