@@ -1,4 +1,5 @@
 Lista
+
   -Java
   
     Operações:
@@ -19,7 +20,26 @@ Lista
           - Iteração
             
           Iterator<Integer> i = lista.iterator();
+
             while(i.hasNext()){
               System.out.println(i.next());
             }
+
+Exercícios:
+1) Geração de números aleatórios em lista
+  - add, percorrer, localizar...
+2) cadastro de nomes controlando duplicados
+  - add, percorrer, localizar, string (toUpperCase(), split())
+
+
+Exercícios C#:
+1) Exercícios dos nomes
+
+Exercícios Java e C#
+1) Gerar valores de glicemia. 
+2) cadastro de nome (sem duplicado)
+3) gerar valor de glicemia aleatório entre 50 - 240 (n valores)
+  1) aplicar média
+  2) aplicar a mediana
+  3) aplicar a moda (2 ou 3 valores que mais ocorre)
           
