@@ -42,4 +42,76 @@ Exercícios Java e C#
   1) aplicar média
   2) aplicar a mediana
   3) aplicar a moda (2 ou 3 valores que mais ocorre)
+
+
+Estrutura da dados - 25/04
+
+Teoria da Orientação a objetos
+  - terceirização
+  - herança
+    - classe pai/mãe -> Object
+
+	- físicas
+	- abstratas
+		- listas, dicionários, listas de listas, listas de dicionários, lista de objetos, hashset
+			- orientação a objetos
+				- toString(), ToString(), __str__, __repr__
+        - equals(), Equals(), __eq__
+        - hashCode(), getHashCode(), __hash__
+      - filas Queue - classe abstrata -> esqueleto com atributos e métodos.... sõ que não instância objetos
+        - FIFO - First In, First out
+          - operações clássicas:
+            - inserir no final/cauda -> add, push
+            - remover no inicio/cabeça -> remove, pop
+          - operações herdadas:
+            - size
+            - contains
+            - indexOf???
+          
+
+Cenário de aplicação de filas:
+  1) Gerenciar processos -> id, descrição
+    - classe Processo 
+        atridutos -> id, descrição
+        métodos -> toString, equals 
+  2) processos tem prioridades -> processos com id entre 1 e 500 
+  tem alta prioridadee processos entre 501 e 1000 tem baixa prioridade
+  3) há duas filas -> normal (processos entre 501 e 1000) e prioritária (processos entre 1 a 500)
+  4) dinâmica:
+    - um número aleatório será gerado entre 0 e 1000
+      - 0 -> atender/remover a cabeça da fila de prioridade - tratar quando vazia
+      - 500 -> atender/remover a cabeça da fila normal - tratar quando vazia
+      - demais números seguem a dinâmica acima -> controle de replicados
+    - a dinâmica deve repetir 10000
+    - exibir as filas ao final, com os processos não atendidos (mostrando contadores)
+
+
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
           
