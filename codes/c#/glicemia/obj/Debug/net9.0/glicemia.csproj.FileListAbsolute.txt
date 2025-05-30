@@ -1,0 +1,14 @@
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\glicemia\obj\Debug\net9.0\glicemia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\glicemia\obj\Debug\net9.0\glicemia.AssemblyInfoInputs.cache
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\glicemia\obj\Debug\net9.0\glicemia.AssemblyInfo.cs
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\glicemia\obj\Debug\net9.0\glicemia.csproj.CoreCompileInputs.cache
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\glicemia\bin\Debug\net9.0\glicemia.exe
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\glicemia\bin\Debug\net9.0\glicemia.deps.json
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\glicemia\bin\Debug\net9.0\glicemia.runtimeconfig.json
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\glicemia\bin\Debug\net9.0\glicemia.dll
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\glicemia\bin\Debug\net9.0\glicemia.pdb
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\glicemia\obj\Debug\net9.0\glicemia.dll
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\glicemia\obj\Debug\net9.0\refint\glicemia.dll
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\glicemia\obj\Debug\net9.0\glicemia.pdb
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\glicemia\obj\Debug\net9.0\glicemia.genruntimeconfig.cache
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\glicemia\obj\Debug\net9.0\ref\glicemia.dll

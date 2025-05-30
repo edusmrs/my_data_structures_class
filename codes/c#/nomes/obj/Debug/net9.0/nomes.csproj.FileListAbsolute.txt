@@ -1,0 +1,14 @@
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\nomes\obj\Debug\net9.0\nomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\nomes\obj\Debug\net9.0\nomes.AssemblyInfoInputs.cache
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\nomes\obj\Debug\net9.0\nomes.AssemblyInfo.cs
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\nomes\obj\Debug\net9.0\nomes.csproj.CoreCompileInputs.cache
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\nomes\bin\Debug\net9.0\nomes.exe
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\nomes\bin\Debug\net9.0\nomes.deps.json
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\nomes\bin\Debug\net9.0\nomes.runtimeconfig.json
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\nomes\bin\Debug\net9.0\nomes.dll
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\nomes\bin\Debug\net9.0\nomes.pdb
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\nomes\obj\Debug\net9.0\nomes.dll
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\nomes\obj\Debug\net9.0\refint\nomes.dll
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\nomes\obj\Debug\net9.0\nomes.pdb
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\nomes\obj\Debug\net9.0\nomes.genruntimeconfig.cache
+C:\Users\edusmrs\OneDrive - UFN - Universidade Franciscana\Estrutura_de_dados\c#\nomes\obj\Debug\net9.0\ref\nomes.dll
